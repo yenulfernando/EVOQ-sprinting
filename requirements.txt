@@ -1,7 +1,0 @@
-flask
-opencv-python-headless
-ultralytics
-pandas
-numpy
-google-cloud-storage
-google-cloud-firestore
