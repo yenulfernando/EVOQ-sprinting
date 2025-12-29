@@ -1,0 +1,12 @@
+flask
+ultralytics
+opencv-python-headless
+mediapipe==0.10.9
+numpy
+pandas
+matplotlib
+pykalman
+google-cloud-storage
+google-cloud-firestore
+
+
