@@ -1,12 +1,7 @@
 flask
-ultralytics
 opencv-python-headless
-mediapipe==0.10.9
-numpy
+ultralytics
 pandas
-matplotlib
-pykalman
+numpy
 google-cloud-storage
 google-cloud-firestore
-
-
